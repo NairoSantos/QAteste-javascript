@@ -1,6 +1,6 @@
 console.log('Olá Javascript!')
 
-var userName = 'Julia Lima'
+var userName = 'Nairo Santos'
 
 document.getElementById('user-name').innerHTML = userName
 
@@ -75,7 +75,7 @@ document.getElementById('user-name').innerHTML = userName
  //   alert(nome + ', seja bem vindo(a)')
 //}
 
-//boasvindas('Julia')
+//boasvindas('Nairo')
 
 //controle de fluxos //
 
